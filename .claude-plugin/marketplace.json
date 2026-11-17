@@ -1,0 +1,13 @@
+{
+  "name": "du-toan-xay-dung",
+  "owner": { "name": "TODO" },
+  "metadata": { "description": "Plugin Claude Code cho dự toán xây dựng và đầu tư công tại Việt Nam" },
+  "plugins": [
+    {
+      "name": "du-toan-dau-tu-cong",
+      "source": "./plugins/du-toan-dau-tu-cong",
+      "description": "Bóc khối lượng (PDF, AutoCAD), lập và thẩm định dự toán, thủ tục đầu tư công",
+      "version": "0.2.0"
+    }
+  ]
+}

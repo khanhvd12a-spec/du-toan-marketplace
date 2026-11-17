@@ -1,0 +1,18 @@
+{
+  "name": "du-toan-dau-tu-cong",
+  "version": "0.2.0",
+  "description": "Bóc khối lượng từ bản vẽ PDF và AutoCAD, lập và thẩm định dự toán xây dựng, tra cứu thủ tục đầu tư công theo pháp luật Việt Nam (cập nhật 11/2026)",
+  "author": {
+    "name": "TODO"
+  },
+  "license": "MIT",
+  "keywords": [
+    "du-toan",
+    "dau-tu-cong",
+    "xay-dung",
+    "tham-dinh",
+    "boc-khoi-luong",
+    "autocad",
+    "dxf"
+  ]
+}
